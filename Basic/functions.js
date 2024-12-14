@@ -1,6 +1,6 @@
 // Las funciones se crean un cammelCase, es decir, la primera palabra en minuscula y las siguientes en mayuscula.
 
-function myFunction() {
+export function myFunction() {
   // code
 }
 
